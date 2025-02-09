@@ -6,6 +6,7 @@ This repository contains the source code for the project **GA-Stacking for Predi
 
 - `ga_stacking_for_ai4i.ipynb`: This notebook is designed for experimenting with the AI4I dataset.
 - `ga_stacking_for_time_series_prediction.ipynb`: This notebook is designed for experimenting with the Microsoft Azure Predictive Maintenance (PdM) dataset.
+- `slide.pptx` and `report.pdf`: These files include the slides and the report of the project.
 
 ## Requirements
 
